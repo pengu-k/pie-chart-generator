@@ -1,7 +1,7 @@
 # pie-generator
 " A pie chart generator"
 
-Installations Required //
+Installations Required /
 •matplotlib
 •pandas
 
