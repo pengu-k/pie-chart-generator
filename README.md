@@ -5,6 +5,6 @@ Installations Required
 •pandas
 
 Updated version:  
-•seaborn (more effecient than matplotlib  
+•seaborn (more effecient than matplotlib)  
 •json (newest compared to panda)
 `````````````````````````````````````````````````````````````````````
