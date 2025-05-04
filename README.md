@@ -1,4 +1,4 @@
-# A pie chart generator  
+# A Pie Chart Generator  
 `````````````````````````````````````````````````````````````````````
 Installations Required  
 •matplotlib  
